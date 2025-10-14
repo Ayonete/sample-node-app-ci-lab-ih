@@ -3,7 +3,7 @@ name: Continuous Integration Pipeline
 on:
  workflow_dispatch
 
-# Define permissions for the workflow
+# Define permissions for workflow
 permissions:
  contents: read
  actions: read
